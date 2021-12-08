@@ -1,7 +1,7 @@
 rule clip_banker
 {
     meta:
-    author = "De'Vianney"
+    author = "Transyl"
 
 
     strings:
